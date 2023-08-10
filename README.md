@@ -24,9 +24,9 @@ Create a Google Spreadsheet table that includes each potential partner’s compa
 
 <br/>
 
->See the [Google Sheet](https://docs.google.com/spreadsheets/d/19ZV4rSTcGUUogh6ObA9Fzo0FNL5cXUShXdvQFfICTPI/edit?usp=sharing) or download as a [table](files\Partners.xlsx)  
+>See the [Google Sheet](https://docs.google.com/spreadsheets/d/19ZV4rSTcGUUogh6ObA9Fzo0FNL5cXUShXdvQFfICTPI/edit?usp=sharing) or download as a [table](files/Partners.xlsx)  
 >
->![](files\partners_img.png)
+>![](files/partners_img.png)
 ><br/>
 
 <br/>
@@ -35,15 +35,15 @@ Create a Google Spreadsheet table that includes each potential partner’s compa
 
 <br/>
 
->See the [Google Slides](https://docs.google.com/presentation/d/1BQTA3jYksiDhEwXHYb-DLf932xNS9mkuLFIXMnjKfjo/edit?usp=sharing) or download as a [presentation](files\sanofi.pptx)  
+>See the [Google Slides](https://docs.google.com/presentation/d/1BQTA3jYksiDhEwXHYb-DLf932xNS9mkuLFIXMnjKfjo/edit?usp=sharing) or download as a [presentation](files/sanofi.pptx)  
 >
 >*See samples of the report below*  
 >
->![](files\Report_1.png)
+>![](files/Report_1.png)
 >
->![](files\report_2.png)
+>![](files/report_2.png)
 >
->![](files\report_3.png)
+>![](files/report_3.png)
 ><br/>
 
 <br/>
@@ -54,7 +54,7 @@ Provide an explanation why this company is potentially a good match merger partn
 
 ><br/>
 >
->![](files\explanation.png)
+>![](files/explanation.png)
 ><br/>
 
 <br/>
@@ -65,7 +65,7 @@ Make sure to include a list of sources used to complete this task
 
 ><br/>
 >
->![](files\sources.png)
+>![](files/sources.png)
 ><br/>
 
 <br/>
